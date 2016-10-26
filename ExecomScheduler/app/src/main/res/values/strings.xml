@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Scheduler</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_title">Title</string>
+    <string name="task_description">Description</string>
+    <string name="database_name">scheduler.db</string>
+    <string name="finished_label">Finished</string>
+    <string name="remove_label">remove</string>
+    <string name="save_label">save</string>
+    <string name="new_title_label">new-title</string>
+    <string name="new_description_label">new-description</string>
+    <string name="task_id_label">task-id</string>
+    <string name="task_finished_label">task-finished</string>
+    <string name="operation_label">operation</string>
+    <string name="task_label">task</string>
+    <string name="title_error_msg">Please insert title of maximum size 40 characters.</string>
+    <string name="description_error_msg">Please insert description of maximum size 400 characters.</string>
+    <string name="title_activity_test">TestActivity</string>
+</resources>
